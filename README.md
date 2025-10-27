@@ -134,19 +134,19 @@ The pipeline architecture enables faster comparison by dividing the logic into m
 Below are the design representations for the **High-Performance 8-Bit Comparator**:
 
 ### 🧠 Gate-Level Schematic
-![Gate-Level Schematic](images/gatelevel.png)
+![Gate-Level Schematic](gatelevel.png)
 
 ### 🧩 No Layout View
-![No Layout View](images/Nolayoutview.png)
+![No Layout View](Nolayoutview.png)
 
 ### 🧱 Complete Layout View
-![Complete Layout View](images/completelayout.png)
+![Complete Layout View](completelayout.png)
 
 ### 🌐 3D Layout – Top View
-![3D Layout Top View](images/topview.png)
+![3D Layout Top View](Topview.png)
 
 ### 🌐 3D Layout – Bottom View
-![3D Layout Bottom View](images/bottomview.png)
+![3D Layout Bottom View](Backview.png)
 
 > 🖼️ *All images are generated post physical design using Cadence Innovus.*
 
